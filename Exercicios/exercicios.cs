@@ -1,0 +1,113 @@
+﻿namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            /*exerxixio1
+            int num1, num2;
+            Console.WriteLine("escreva dois numeros");
+            num1 = int.Parse(Console.ReadLine());
+            num2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("media aritmetica entre eles: " + (num1 + num2) / 2);
+            */
+
+            /*exercicio2
+            int num1, num2, num3, num4;
+            Console.WriteLine("escreva quatro numeros");
+            num1 = int.Parse(Console.ReadLine());
+            num2 = int.Parse(Console.ReadLine());
+            num3 = int.Parse(Console.ReadLine());
+            num4 = int.Parse(Console.ReadLine());
+            Console.WriteLine("media aritmetica entre eles: " + (num1 + num2 + num3 + num4) / 4);
+            */
+
+            /*exercicio3
+            int a = 3, b = 7,aux;
+
+            Console.WriteLine("variavel a= " + a + " variavel b= " + b);
+            aux = a;
+             a = b;
+             b = aux;
+            
+            Console.WriteLine("variavel a= " + a + " variavel b= " + b);
+            */
+
+            /*exercicio4
+
+            int dia, mes, ano;
+
+            Console.WriteLine("escreva o dia, mes e ano, nesta ordem");
+
+            dia = int.Parse(Console.ReadLine());
+            mes = int.Parse(Console.ReadLine());
+            ano = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("forma aaaammdd= "+ano+mes+dia);
+            Console.WriteLine("forma aammdd= " + (ano/100)+mes+dia);
+            */
+
+            //exercicio aula
+            /*
+            float l1, l2, l3;
+
+            Console.WriteLine("Escreva as medidas de tres lados de um triangulo");
+            l1 = float.Parse(Console.ReadLine());
+            l2 = float.Parse(Console.ReadLine());
+            l3 = float.Parse(Console.ReadLine());
+
+            if(l1==l2 && l2 == l3)
+            {
+                Console.WriteLine( "o triangulo eh equilatero");
+            }
+            else if(l1!=l2 && l1!=l3 && l2 !=l3)
+            {
+                Console.WriteLine("o triângulo eh escaleno");
+            }
+            else
+            {
+                Console.WriteLine("o triangulo eh isosceles");
+            }
+            */
+
+            /*exercicio5
+           float distancia,volume;
+
+            Console.WriteLine( "escreva qual a distância e quantos litros gastou para percorre-la, nesta ordem");
+            distancia = float.Parse(Console.ReadLine());
+            volume = float.Parse(Console.ReadLine());
+            Console.WriteLine(distancia/volume+"km/l");
+            */
+
+            /*exercicio7
+            float numero, salario, taxa, vendas, salario_total;
+            Console.WriteLine( "Qual o seu número?");
+            numero = float.Parse(Console.ReadLine());
+            Console.WriteLine( "Qual o seu salario fixo?");
+            salario = float.Parse(Console.ReadLine());
+            Console.WriteLine( "Qual a taxa que ganha sobre vendas em porcentagem?");
+            taxa = float.Parse(Console.ReadLine());
+            Console.WriteLine( "Qual o seu total de vendas?");
+            vendas = float.Parse(Console.ReadLine());
+
+            salario_total= salario+((taxa/100)*vendas);
+            Console.WriteLine("o seu salario eh de "+salario_total);
+            */
+
+            /*exercicio8
+            float c,f;
+            Console.WriteLine("Digite quala temperatura em celcius?");
+            c = float.Parse(Console.ReadLine());
+            f=(9*c+160)/5;
+            Console.WriteLine("a temperatura em farenheit eh igual a: "+f);
+            */
+
+
+
+
+
+
+
+        }
+    }
+}
