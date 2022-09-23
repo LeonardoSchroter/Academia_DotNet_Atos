@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp1
+﻿using System.Reflection.Metadata.Ecma335;
+
+namespace ConsoleApp1
 {
     internal class Program
     {
@@ -101,6 +103,92 @@
             f=(9*c+160)/5;
             Console.WriteLine("a temperatura em farenheit eh igual a: "+f);
             */
+
+            /*exercicio9
+
+            float valor, entrada , prestacoes;
+            Console.WriteLine("escreva qual o valor da sua compra");
+            valor = float.Parse(Console.ReadLine());
+            if (valor%3!= 0)
+            {
+                
+            }
+            */
+
+            /*exercicio10
+
+            int valor,nota100=0,nota50=0,nota10=0,nota5=0,nota1=0;
+
+            Console.WriteLine( "qual o valor que deseja sacar?");
+            valor = int.Parse(Console.ReadLine());
+            for (; ; ) { 
+
+                if (valor == 0) {
+                    break;
+                }
+                
+                if (valor >= 100){
+                    nota100++;
+                    valor=valor-100;
+                    continue;
+                }
+               
+                if (valor >= 50)
+                {
+                    nota50++;
+                    valor=valor-50;
+                    continue;
+                }
+                
+                if (valor >= 10)
+                {
+                    nota10++;
+                    valor=valor-10;
+                    continue;
+                }
+                
+                if (valor >= 5)
+                {
+                    nota5++;
+                    valor=valor-5;
+                    continue;
+                }
+               
+                if (valor >= 1)
+                {
+                    nota1++;
+                    valor=valor-1;
+                    continue;
+                }
+            }
+
+            if(nota100 != 0)
+            {
+                Console.WriteLine(nota100+ " notas de 100");
+            }
+            if(nota50 != 0)
+            {
+                Console.WriteLine(nota50+ " notas de 50");
+            }
+            if(nota10 != 0)
+            {
+                Console.WriteLine(nota10+ " notas de 10");
+            }
+            if(nota5 != 0)
+            {
+                Console.WriteLine(nota5+ " notas de 5");
+            }
+            if(nota1 != 0)
+            {
+                Console.WriteLine(nota1+ " notas de 1");
+            }
+            */
+
+            //exercicio11
+
+            int eleitores, vBrancos, vNulos, vValidos;
+
+
 
 
 
