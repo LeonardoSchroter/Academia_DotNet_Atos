@@ -1,14 +1,12 @@
 {
   "ExpandedNodes": [
-<<<<<<< HEAD
-    ""
-  ],
-  "SelectedNode": "\\Exercicios.cs",
-=======
     "",
+    "\\ConsoleApp1",
+    "\\ConsoleApp1\\obj",
+    "\\ConsoleApp1\\obj\\Release",
+    "\\ConsoleApp1\\obj\\Release\\net6.0",
     "\\exercicios"
   ],
-  "SelectedNode": "\\exercicios\\exercicios_primeira_aula.cs",
->>>>>>> a4cf00538fd17b75ed2550e82f342b7e36e4d482
+  "SelectedNode": "\\exercicios\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -33,6 +33,8 @@
             Console.WriteLine("variavel a= " + a + " variavel b= " + b);
             */
 
+            /*
+
             int dia, mes, ano;
 
             Console.WriteLine("escreva o dia, mes e ano, nesta ordem");
@@ -42,7 +44,8 @@
             ano = int.Parse(Console.ReadLine());
 
             Console.WriteLine("forma aaaammdd= "+ano+mes+dia);
-            Console.WriteLine("forma aammdd= " + ano+mes+dia);
+            Console.WriteLine("forma aammdd= " + (ano/100)+mes+dia);
+            */
 
 
 
