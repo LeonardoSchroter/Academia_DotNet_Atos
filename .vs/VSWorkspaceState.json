@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     ""
   ],
   "SelectedNode": "\\Exercicios.cs",
+=======
+    "",
+    "\\exercicios"
+  ],
+  "SelectedNode": "\\exercicios\\exercicios_primeira_aula.cs",
+>>>>>>> a4cf00538fd17b75ed2550e82f342b7e36e4d482
   "PreviewInSolutionExplorer": false
 }
