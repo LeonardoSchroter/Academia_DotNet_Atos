@@ -1,12 +1,10 @@
-﻿using System.Reflection.Metadata.Ecma335;
-
-namespace ConsoleApp1
+﻿namespace exercicios1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            /*exerxixio1
+           /*exerxixio1
             int num1, num2;
             Console.WriteLine("escreva dois numeros");
             num1 = int.Parse(Console.ReadLine());
@@ -185,17 +183,6 @@ namespace ConsoleApp1
             
 
             //exercicio11
-
-           
-
-
-
-
-
-
-
-
-
         }
     }
 }
