@@ -141,7 +141,45 @@ namespace exercicios2
 
             */
 
-            //exercicio6
+            /*exercicio6
+
+            string nome;
+            float altura, peso,imc;
+
+            Console.WriteLine("digite seu nome ");
+            nome= Console.ReadLine();
+            nome= nome.ToUpper();
+
+            Console.WriteLine("digite sua altura em metros");
+            altura = float.Parse(Console.ReadLine());
+            
+            Console.WriteLine("digite seu peso em kg");
+            peso = float.Parse(Console.ReadLine());
+
+            imc = peso / (altura * altura);
+
+            if (imc <= 18)
+            {
+                Console.WriteLine("voce esta abaixo do peso");
+            }
+            else if (imc <= 25){
+                Console.WriteLine("Voce esta no peso normal");
+            }
+            else if (imc <= 30){
+                Console.WriteLine("voce esta com sobrepeso");
+            }
+            else if (imc <= 35)
+            {
+                Console.WriteLine("voce possui obesidade");
+            }
+            else
+            {
+                Console.WriteLine("obesidade morbida");
+            }
+            */
+
+            //exercicio7
+
 
 
 
