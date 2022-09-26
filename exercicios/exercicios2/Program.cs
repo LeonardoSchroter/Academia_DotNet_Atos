@@ -188,9 +188,16 @@ namespace exercicios2
             frase= Console.ReadLine();
 
             Console.WriteLine("escreva uma palavra para ser buscada na frase");
-            palavra= Console.ReadLine();  
+            palavra= Console.ReadLine();
+
+            if (frase.Contains(palavra))
+            {
+                Console.WriteLine("a palavra " + palavra + " foi encontrada na frase");
+            }
+            else { Console.WriteLine("a palavra nao foi encontrada"); }
 
             */
+
 
             /*exercicio8
 
@@ -390,8 +397,206 @@ namespace exercicios2
 
             */
 
-            
-            
+            /*exercicio15
+
+            double area, tam, qtdTintas, preco, litros;
+
+            Console.WriteLine("Qual o tamanho da área que deseja pintar em metros quadrados");
+            area=float.Parse(Console.ReadLine());
+            litros = area / 3;
+            qtdTintas = litros / 18;
+            qtdTintas = Math.Ceiling(qtdTintas);
+            preco = qtdTintas * 80;
+
+            Console.WriteLine("voce precisara de "+qtdTintas+" latas de tinta e gastara "+preco+"R$");
+
+            */
+
+            /*exercicio16
+
+            int timeFora, timeCasa, diferenca;
+
+            Console.WriteLine("qual foi o placar do jogo para o time de fora?");
+            timeFora = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("e para o time da casa?");
+            timeCasa= int.Parse(Console.ReadLine());
+
+            diferenca = timeFora - timeCasa;
+
+            if (diferenca >= 2)
+            {
+                Console.WriteLine("O time de fora se classificou");
+            }
+            else{
+                Console.WriteLine("os times se enfrentarão novamente");
+
+                Console.WriteLine("qual foi o placar do segundo jogo para o time de fora?");
+                timeFora = int.Parse(Console.ReadLine());
+
+                Console.WriteLine("e para o time da casa?");
+                timeCasa = int.Parse(Console.ReadLine());
+
+                if (timeCasa > timeFora)
+                {
+                    Console.WriteLine("o time de casa passou de fase");
+                }
+                else if(timeCasa < timeFora)
+                {
+                    Console.WriteLine("o time de fora passou de fase");
+                }
+                else
+                {
+                    Console.WriteLine("empataram");
+                }
+            }
+
+            */
+
+            /*exercicio17
+
+            int l1, l2, l3;
+
+            Console.WriteLine("Digite os tres lados de um triangulo");
+
+            l1=int.Parse(Console.ReadLine());
+            l2=int.Parse(Console.ReadLine());
+            l3=int.Parse(Console.ReadLine());
+
+            if(l1<=(l2+l3) && l2<=(l3+l1) && l3 <= (l1 + l2))
+            {
+                if (l1 == l2 && l2 == l3)
+                {
+                    Console.WriteLine("o triangulo eh equilatero");
+                }
+                else if (l1 != l2 && l1 != l3 && l2 != l3)
+                {
+                    Console.WriteLine("o triângulo eh escaleno");
+                }
+                else
+                {
+                    Console.WriteLine("o triangulo eh isosceles");
+                }
+            }
+            else
+            {
+                Console.WriteLine("estes valores nao correspondem a um triangulo");
+            }
+
+            */
+
+            /*exercicio18
+
+            float num1, num2, num3;
+
+            Console.WriteLine("Escreva tres valores");
+
+            num1=float.Parse(Console.ReadLine());
+            num2=float.Parse(Console.ReadLine());
+            num3=float.Parse(Console.ReadLine());
+
+            if (num1 > num3 && num1 > num2)
+            {
+                Console.WriteLine(num1 + " eh o maior numero");
+            }
+            else if (num2 > num3 && num2 > num1)
+            {
+                Console.WriteLine(num2+ " eh o maior numero");
+            }
+            else
+            {
+                Console.WriteLine(num3+ " eh o maior numero");
+            }
+            */
+
+            /*exercicio19
+
+            float num1, num2, num3, prim, seg, terc;
+
+            Console.WriteLine("Escreva tres valores");
+
+            num1 = float.Parse(Console.ReadLine());
+            num2 = float.Parse(Console.ReadLine());
+            num3 = float.Parse(Console.ReadLine());
+
+            if (num1 > num3 && num1 > num2)
+            {
+                terc = num1;
+            }
+            else if (num2 > num3 && num2 > num1)
+            {
+                terc = num2;
+            }
+            else
+            {
+                terc = num3;
+            }
+            if(num1 >num2 && num1 < num3 || num1 > num3 && num1 < num2)
+            {
+                seg = num1;
+            }
+            else if(num2 > num1 && num2 < num3 || num2 > num3 && num2 < num1)
+            {
+                seg = num2;
+            }
+            else
+            {
+                seg = num3;
+            }
+             if(num1<num2 && num1<num3)
+            {
+                prim = num1;
+            }
+             else if(num2 < num1 && num2 < num3)
+            {
+                prim = num2;
+            }
+            else
+            {
+                prim = num3;
+            }
+            Console.WriteLine("------------------------------------------");
+            Console.WriteLine("ORDEM CRESCENTE DOS NUMEROS");
+            Console.WriteLine(prim+ "\n"+ seg+"\n" +terc);
+
+            */
+
+            /*exercicio20
+
+            int numero_aleatorio=30, chute;
+
+           
+
+            Console.WriteLine("tente acertar o numero");
+
+            for(int i=0; i>3; i++)
+            {
+                chute=int.Parse(Console.ReadLine());
+
+                if (chute == numero_aleatorio)
+                {
+                    Console.WriteLine("parabens, voce acertou");
+                    break;
+                }
+                else if (chute < numero_aleatorio)
+                {
+                    Console.WriteLine("eh maior");
+                    
+                }
+                else
+                {
+                    Console.WriteLine("eh menor");
+                    
+                }
+            }
+            */
+
+
+
+
+
+
+
 
 
 
