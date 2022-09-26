@@ -374,15 +374,23 @@ namespace exercicios2
 
             */
 
-            //exercicio14
+            /*exercicio14
 
             float tam, link, velocidade;
 
-            Console.WriteLine("qual o tamanho do download que quer realizar?");
+            Console.WriteLine("qual o tamanho do download que quer realizar em mb?");
             tam = float.Parse(Console.ReadLine());
 
-            Console.WriteLine("qual a velocidade do link que usara?");
-            velocidade = float.Parse(Console.ReadLine());
+            Console.WriteLine("qual a velocidade do link que usara em mb/h?");
+            link = float.Parse(Console.ReadLine());
+
+            velocidade = tam / link * 60;
+
+            Console.WriteLine("ira demorar aproximadamente "+ velocidade+ " minutos");
+
+            */
+
+            
             
 
 
