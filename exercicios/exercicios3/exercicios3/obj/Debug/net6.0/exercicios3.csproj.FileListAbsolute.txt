@@ -1,0 +1,15 @@
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\bin\Debug\net6.0\exercicios3.exe
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\bin\Debug\net6.0\exercicios3.deps.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\bin\Debug\net6.0\exercicios3.runtimeconfig.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\bin\Debug\net6.0\exercicios3.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\bin\Debug\net6.0\exercicios3.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\obj\Debug\net6.0\exercicios3.csproj.AssemblyReference.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\obj\Debug\net6.0\exercicios3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\obj\Debug\net6.0\exercicios3.AssemblyInfoInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\obj\Debug\net6.0\exercicios3.AssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\obj\Debug\net6.0\exercicios3.csproj.CoreCompileInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\obj\Debug\net6.0\exercicios3.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\obj\Debug\net6.0\refint\exercicios3.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\obj\Debug\net6.0\exercicios3.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\obj\Debug\net6.0\exercicios3.genruntimeconfig.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios3\exercicios3\obj\Debug\net6.0\ref\exercicios3.dll
