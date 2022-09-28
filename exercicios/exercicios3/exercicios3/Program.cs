@@ -663,11 +663,44 @@ namespace exercicios3
 
             */
 
-            //exercicio20
+            /*exercicio20
+
+            string sexo,cor_olhos,cor_cabelo;
+            int mulheres=0, idade, maior = 0;
+
+            for(; ; )
+            {
+                Console.WriteLine("Qual a sua idade?");
+                idade=int.Parse(Console.ReadLine());
+
+                if (idade == -1)
+                {
+                    break;
+                }
+                else
+                {
+                    if (idade > maior)
+                    {
+                        maior = idade;
+                    }
+                    Console.WriteLine("Qual seu sexo?[m ou f]");
+                    sexo = Console.ReadLine();
+                    Console.WriteLine("Qual a cor dos seus cabelos?");
+                    cor_cabelo=Console.ReadLine();
+                    Console.WriteLine("Qual a cor dos seus olhos");
+                    cor_olhos=Console.ReadLine();
+
+                    if(sexo=="f" && idade< 35 && idade > 18 && cor_olhos== "verdes" && cor_cabelo=="louros")
+                    {
+                        mulheres++;
+                    }
+
+                }
+            }
+            Console.WriteLine("A maior idade eh de:"+maior+"\nO numero de mulheres entre 18 e 35 anos, e cokm cabelos louros e olhos verdes eh igual a : "+mulheres);
 
 
-
-
+            */
 
 
 
