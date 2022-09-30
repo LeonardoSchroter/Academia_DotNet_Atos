@@ -1,0 +1,15 @@
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\bin\Debug\net6.0\exercicios4.exe
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\bin\Debug\net6.0\exercicios4.deps.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\bin\Debug\net6.0\exercicios4.runtimeconfig.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\bin\Debug\net6.0\exercicios4.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\bin\Debug\net6.0\exercicios4.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\obj\Debug\net6.0\exercicios4.csproj.AssemblyReference.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\obj\Debug\net6.0\exercicios4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\obj\Debug\net6.0\exercicios4.AssemblyInfoInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\obj\Debug\net6.0\exercicios4.AssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\obj\Debug\net6.0\exercicios4.csproj.CoreCompileInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\obj\Debug\net6.0\exercicios4.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\obj\Debug\net6.0\refint\exercicios4.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\obj\Debug\net6.0\exercicios4.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\obj\Debug\net6.0\exercicios4.genruntimeconfig.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios4\obj\Debug\net6.0\ref\exercicios4.dll
