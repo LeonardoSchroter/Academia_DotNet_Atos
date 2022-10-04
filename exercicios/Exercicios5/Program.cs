@@ -1,4 +1,6 @@
-﻿namespace Exercicios5
+﻿using System.Xml;
+
+namespace Exercicios5
 {
     internal class Program
     {
@@ -455,6 +457,245 @@
                 Console.WriteLine();
             }
 
+            */
+            /*13) Escreva um programa que leia os valores de uma matriz 4x3, e em seguida
+            //mostre na tela apenas os valores cuja soma dos índices (i*j) seja um número par.
+
+            int[,] matriz = new int[4, 3];
+            Console.WriteLine("Escreva os valores para a matriz");
+            for(int i=0; i < 4; i++)
+            {
+                for(int j = 0; j < 3; j++)
+                {
+                    Console.Write("["+i+","+j+"]="); 
+                    matriz[i,j] = int.Parse(Console.ReadLine());
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("-----------------Mostrando os valores cuja soma dos indices é um numero par-----------------");
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    if ((i + j) % 2 == 0) { 
+                        Console.WriteLine("[" + i + "," + j + "]=" + matriz[i,j]);
+                    }
+                }
+               
+            }
+            */
+            /*14) Escreva um programa que leia uma matriz de ordem 5 (ou seja, 5x5) e verifique se a soma dos elementos da diagonal principal é igual a soma dos elementos da 
+            //diagonal secundária.
+            int[,] matriz = new int[5, 5];
+            int somaDPrincipal = 0, somaDSecundaria = 0;
+            Console.WriteLine("Escreva os valores para a matriz");
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    Console.Write("[" + i + "," + j + "]=");
+                    matriz[i, j] = int.Parse(Console.ReadLine());
+                    if (i == j)
+                    {
+                        somaDPrincipal = somaDPrincipal + matriz[i, j];
+                    }
+                    
+                }
+                Console.WriteLine();
+            }
+
+            for (int i = 5 - 1; i >= 0; i--)
+            {
+                 somaDSecundaria=matriz[i,(5 - 1) - i]+ somaDSecundaria;
+            }
+
+            if(somaDPrincipal == somaDSecundaria)
+            {
+                Console.WriteLine("A soma dos elementos da diagonal principal é igual a soma de elementos da diagonal secundaria \n soma diagonal principal:"+somaDPrincipal+"\nsoma diagonal secundaria:"+somaDSecundaria);
+            }
+            else
+            {
+                Console.WriteLine("A soma dos dois não é igual,\n soma diagonal principal:" + somaDPrincipal + "\nsoma diagonal secundaria:" + somaDSecundaria);
+            }
+
+            */
+
+            /*15) Escreva um programa que leia uma matriz de ordem 5 e verifique se os elementos da diagonal principal
+            //(da esquerda para a direita) são os mesmos da diagonal secundária(direita pra esquerda).
+
+            int[,] matriz = new int[5, 5];
+            int[] dp = new int[5], ds = new int[5];
+            int c = 0;
+            Console.WriteLine("Escreva os valores para a matriz");
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    Console.Write("[" + i + "," + j + "]=");
+                    matriz[i, j] = int.Parse(Console.ReadLine());
+                    if (i == j)
+                    {
+                        dp[c] = matriz[i, j];
+                        c++;
+                    }
+
+                }
+                Console.WriteLine();
+            }
+            c = 0;
+            for (int i = 5 - 1; i >= 0; i--)
+            {
+                ds[c]=matriz[i, (5 - 1) - i] ;
+                c++;
+            }
+            c = 0;
+            for(int i=0; i < 5; i++)
+            {
+                for(int j=0;j<5; j++)
+                {
+                    if (dp[i] == ds[j])
+                    {
+                        c++;
+                        break;
+                    }
+                }
+            }
+
+            if (c == 5)
+            {
+                Console.WriteLine("A diagonal secundaria é igual a diagonal principal");
+            }
+            else
+            {
+                Console.WriteLine("As diagonais são diferentes");
+            }
+            */
+
+            /*16) Escreva um programa em C para ler os valores e somar duas matrizes 4 x 4. Mostrar a matriz resultante.
+            int[,] a = new int[4, 4], b = new int[4, 4], c = new int[4, 4];
+            Console.WriteLine("------------------Prencha a matriz 1------------------");
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    Console.WriteLine("Informe um valor para a posição " + i + " - " + j + " da matriz:");
+                    a[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+            Console.WriteLine("------------------Prencha a matriz 2------------------");
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    Console.WriteLine("Informe um valor para a posição " + i + " - " + j + " da matriz:");
+                    b[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    c[i, j] = (a[i, j] + b[i, j]);
+                }
+            }
+            Console.WriteLine("------------Mostrando a terceira matriz------------");
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    Console.Write("[" + i + "," + j + "] = " + c[i, j] + "  ");
+                }
+                Console.WriteLine();
+            }
+            */
+
+            /*17) Escreva um algoritmo para transpor uma matriz 3x4 para outra 4x3. Transpor uma matriz significa transformar suas linhas em colunas e vice-versa.
+            int[,] matriz = new int[3, 4], matriz2 = new int[4, 3];
+  
+            
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    matriz[i, j] = i + j;
+                }
+               
+            }
+            Console.WriteLine("---------------Mostrando a matriz---------------");
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    Console.Write("[" + i + "," + j + "] = " + matriz[i, j] + "  ");
+                }
+                Console.WriteLine();
+            }
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    matriz2[j, i] = matriz[i, j];
+                }
+
+            }
+
+            Console.WriteLine("---------------Mostrando a matriz transposta---------------");
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write("[" + i + "," + j + "] = " + matriz2[i, j] + "  ");
+                }
+                Console.WriteLine();
+            }
+            */
+
+            /*18) Desafio: Fazer um algoritmo que leia uma matriz de 10 linhas por 10 colunas e escreva o elemento minimax, ou seja,o menor elemento da linha onde se encontra o 
+            //maior elemento da matriz. Escreva também a linha e a coluna onde foi encontrado.
+            int[,] matriz = new int[10, 10];
+            int  linha = 0,maior, minimax=0, coluna=0, menor;
+
+
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    Console.WriteLine("Informe um valor para a posição " + i + " - " + j + " da matriz:");
+                    matriz[i, j] = int.Parse(Console.ReadLine());
+                    
+                }
+
+            }
+            maior = matriz[0, 0];
+            
+            Console.WriteLine("---------------Mostrando a matriz---------------");
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    Console.Write("[" + i + "," + j + "] = " + matriz[i, j] + "  ");
+                    if (maior < matriz[i, j])
+                    {
+                        maior = matriz[i, j];
+                        linha = i;
+                        coluna = j;
+                    }
+                }
+                Console.WriteLine();
+            }
+            menor = maior;
+            for(int i = 0; i < 10; i++)
+            {
+                if(matriz[linha, i] < menor)
+                {
+                    menor= matriz[linha, i];
+                    coluna = i;
+                }
+            }
+
+            Console.WriteLine("O menor elemento da linha onde se encontra o maior elemento da matriz é "+menor+" e se encontra na linha "+ linha+ " e na coluna "+coluna);
             */
         }
     }
