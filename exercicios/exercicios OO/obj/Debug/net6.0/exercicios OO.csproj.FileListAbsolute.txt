@@ -1,0 +1,15 @@
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\bin\Debug\net6.0\exercicios OO.exe
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\bin\Debug\net6.0\exercicios OO.deps.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\bin\Debug\net6.0\exercicios OO.runtimeconfig.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\bin\Debug\net6.0\exercicios OO.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\bin\Debug\net6.0\exercicios OO.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\obj\Debug\net6.0\exercicios OO.csproj.AssemblyReference.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\obj\Debug\net6.0\exercicios OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\obj\Debug\net6.0\exercicios OO.AssemblyInfoInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\obj\Debug\net6.0\exercicios OO.AssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\obj\Debug\net6.0\exercicios OO.csproj.CoreCompileInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\obj\Debug\net6.0\exercicios OO.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\obj\Debug\net6.0\refint\exercicios OO.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\obj\Debug\net6.0\exercicios OO.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\obj\Debug\net6.0\exercicios OO.genruntimeconfig.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\exercicios OO\obj\Debug\net6.0\ref\exercicios OO.dll
