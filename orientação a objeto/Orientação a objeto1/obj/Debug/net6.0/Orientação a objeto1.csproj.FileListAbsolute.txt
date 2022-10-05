@@ -1,0 +1,15 @@
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\bin\Debug\net6.0\Orientação a objeto1.exe
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\bin\Debug\net6.0\Orientação a objeto1.deps.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\bin\Debug\net6.0\Orientação a objeto1.runtimeconfig.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\bin\Debug\net6.0\Orientação a objeto1.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\bin\Debug\net6.0\Orientação a objeto1.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\obj\Debug\net6.0\Orientação a objeto1.csproj.AssemblyReference.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\obj\Debug\net6.0\Orientação a objeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\obj\Debug\net6.0\Orientação a objeto1.AssemblyInfoInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\obj\Debug\net6.0\Orientação a objeto1.AssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\obj\Debug\net6.0\Orientação a objeto1.csproj.CoreCompileInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\obj\Debug\net6.0\Orientação a objeto1.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\obj\Debug\net6.0\refint\Orientação a objeto1.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\obj\Debug\net6.0\Orientação a objeto1.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\obj\Debug\net6.0\Orientação a objeto1.genruntimeconfig.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\Orientação a objeto1\obj\Debug\net6.0\ref\Orientação a objeto1.dll
