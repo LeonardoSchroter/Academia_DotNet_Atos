@@ -1,0 +1,15 @@
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\bin\Debug\net6.0\OO criando classes.exe
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\bin\Debug\net6.0\OO criando classes.deps.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\bin\Debug\net6.0\OO criando classes.runtimeconfig.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\bin\Debug\net6.0\OO criando classes.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\bin\Debug\net6.0\OO criando classes.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\obj\Debug\net6.0\OO criando classes.csproj.AssemblyReference.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\obj\Debug\net6.0\OO criando classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\obj\Debug\net6.0\OO criando classes.AssemblyInfoInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\obj\Debug\net6.0\OO criando classes.AssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\obj\Debug\net6.0\OO criando classes.csproj.CoreCompileInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\obj\Debug\net6.0\OO criando classes.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\obj\Debug\net6.0\refint\OO criando classes.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\obj\Debug\net6.0\OO criando classes.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\obj\Debug\net6.0\OO criando classes.genruntimeconfig.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO criando classes\obj\Debug\net6.0\ref\OO criando classes.dll

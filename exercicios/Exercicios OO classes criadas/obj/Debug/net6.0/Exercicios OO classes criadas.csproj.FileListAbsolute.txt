@@ -1,0 +1,15 @@
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\bin\Debug\net6.0\Exercicios OO classes criadas.exe
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\bin\Debug\net6.0\Exercicios OO classes criadas.deps.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\bin\Debug\net6.0\Exercicios OO classes criadas.runtimeconfig.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\bin\Debug\net6.0\Exercicios OO classes criadas.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\bin\Debug\net6.0\Exercicios OO classes criadas.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\obj\Debug\net6.0\Exercicios OO classes criadas.csproj.AssemblyReference.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\obj\Debug\net6.0\Exercicios OO classes criadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\obj\Debug\net6.0\Exercicios OO classes criadas.AssemblyInfoInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\obj\Debug\net6.0\Exercicios OO classes criadas.AssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\obj\Debug\net6.0\Exercicios OO classes criadas.csproj.CoreCompileInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\obj\Debug\net6.0\Exercicios OO classes criadas.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\obj\Debug\net6.0\refint\Exercicios OO classes criadas.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\obj\Debug\net6.0\Exercicios OO classes criadas.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\obj\Debug\net6.0\Exercicios OO classes criadas.genruntimeconfig.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios OO classes criadas\obj\Debug\net6.0\ref\Exercicios OO classes criadas.dll

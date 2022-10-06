@@ -103,6 +103,12 @@
 
             //Console.WriteLine(palavrasFrase[2]);
 
+
+
+
+
+
+
         }
     }
 }
