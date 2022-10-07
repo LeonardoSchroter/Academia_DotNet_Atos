@@ -24,7 +24,7 @@ namespace Exercicios_OO_classes_criadas
             L1.MostrarDados();
             */
 
-            //2 - Escreva uma classe Pessoa contendo todos os atributos de uma pessoa.
+            /*2 - Escreva uma classe Pessoa contendo todos os atributos de uma pessoa.
             //Faça métodos para apresentar os dados.Faça a leitura pelo teclado dos
             //atributos e crie um construtor para fazer o instanciamento.  
 
@@ -47,6 +47,36 @@ namespace Exercicios_OO_classes_criadas
             Pessoa P1 = new Pessoa(altura, nome, peso, idd);
 
             P1.MostrarDados();
+            */
+
+
+            //Faça um programa para controlar o aluguel de carros. Deve ter as classes Carro, aluguel e cliente.
+            Carro carro;
+            Cliente cliente;
+            Aluguel aluguel;
+
+            Console.WriteLine("Escreva o nome e idade do cliente");
+            string nome = Console.ReadLine();
+            Console.WriteLine("Qual a idade do cliente?");
+            int idd = int.Parse(Console.ReadLine());
+            cliente = new Cliente(idd, nome);
+
+            Console.WriteLine("Qual modelo de carro que sera alugado?");
+            string modelo = Console.ReadLine();
+
+            Console.WriteLine("Qual sera a placa do carro?");
+            string placa = Console.ReadLine();
+
+            carro = new Carro(modelo, placa);
+
+            Console.WriteLine("Qual sera o valor do aluguel deste carro?");
+            double aluguel1 = double.Parse(Console.ReadLine());
+
+            aluguel = new Aluguel(cliente, aluguel1, carro);
+
+            aluguel.mostrarDados();
+
+
 
 
         }

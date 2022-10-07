@@ -1,0 +1,15 @@
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\bin\Debug\net6.0\OO Encapsulamento.exe
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\bin\Debug\net6.0\OO Encapsulamento.deps.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\bin\Debug\net6.0\OO Encapsulamento.runtimeconfig.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\bin\Debug\net6.0\OO Encapsulamento.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\bin\Debug\net6.0\OO Encapsulamento.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\obj\Debug\net6.0\OO Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\obj\Debug\net6.0\OO Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\obj\Debug\net6.0\OO Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\obj\Debug\net6.0\OO Encapsulamento.AssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\obj\Debug\net6.0\OO Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\obj\Debug\net6.0\OO Encapsulamento.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\obj\Debug\net6.0\refint\OO Encapsulamento.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\obj\Debug\net6.0\OO Encapsulamento.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\obj\Debug\net6.0\OO Encapsulamento.genruntimeconfig.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\orientação a objeto\OO Encapsulamento\obj\Debug\net6.0\ref\OO Encapsulamento.dll
