@@ -11,6 +11,7 @@ namespace OO_Encapsulamento
 
         public string nome;
         public int idade;
+        public string cpf;
 
     }
 }
