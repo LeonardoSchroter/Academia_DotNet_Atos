@@ -16,12 +16,15 @@ namespace OO_Encapsulamento
             this.pessoa = pessoa;
         }
 
-        public void armazenaPessoa(string nome, int idade, float altura, Pessoa[] pessoa, int qtd)
+        public void armazenaPessoa(string nome, int idade, float altura, Pessoa[] pessoa)
         {
            
 
             bool encontrei = false;
-            
+            for (int i = 0; i < 10; i++)
+            {
+                if (pessoa[i].Nome == null)
+                {
                     pessoa[i].Nome = nome;
                     pessoa[i].Idade = idade;
                     pessoa[i].Altura = altura;
