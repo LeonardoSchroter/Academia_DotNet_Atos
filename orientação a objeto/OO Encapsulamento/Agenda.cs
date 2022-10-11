@@ -16,15 +16,12 @@ namespace OO_Encapsulamento
             this.pessoa = pessoa;
         }
 
-        public void armazenaPessoa(string nome, int idade, float altura)
+        public void armazenaPessoa(string nome, int idade, float altura, Pessoa[] pessoa, int qtd)
         {
            
 
             bool encontrei = false;
-            for (int i = 0; i < 10; i++)
-            {
-                if (pessoa[i].Nome == "")
-                {
+            
                     pessoa[i].Nome = nome;
                     pessoa[i].Idade = idade;
                     pessoa[i].Altura = altura;
@@ -42,7 +39,7 @@ namespace OO_Encapsulamento
 
 
         }
-        public void removePessoa(string nome)
+        public void removePessoa(string nome, Pessoa[] pessoa)
         {
             bool encontrei = false;
             for (int i = 0; i < pessoa.Length; i++)
@@ -63,7 +60,7 @@ namespace OO_Encapsulamento
             }
 
         }
-        public void buscaPessoa(string nome)
+        public void buscaPessoa(string nome, Pessoa[] pessoa)
         {
             bool encontrei = false;
             for (int i = 0; i < 10; i++)
@@ -84,7 +81,7 @@ namespace OO_Encapsulamento
 
 
 
-        public void imprimeAgenda()
+        public void imprimeAgenda(Pessoa[] pessoa)
         {
             if (pessoa.Length == 0)
             {
@@ -93,9 +90,13 @@ namespace OO_Encapsulamento
             for (int i = 0; i < 10; i++)
             {
 
-
+                if (pessoa[i].Nome == "")
+                {
+                    continue;
+                }
                 Console.WriteLine("posição: " + i + "\n nome: " + pessoa[i].Nome + " \nidade: " + pessoa[i].Idade + " \naltura: " + pessoa[i].Altura);
                 break;
+
 
 
             }
