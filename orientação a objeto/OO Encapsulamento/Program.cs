@@ -147,20 +147,63 @@ pedido.setValor();
 Console.WriteLine("valor = R$"+pedido.getValor());
 */
 
-/*6 - Crie uma classe Agenda que pode armazenar 10 pessoas e que seja capaz de realizar as seguintes operações:
+//6 - Crie uma classe Agenda que pode armazenar 10 pessoas e que seja capaz de realizar as seguintes operações:
 //void armazenaPessoa(String nome, int idade, float altura);
 //void removePessoa(String nome);
 //int buscaPessoa(String nome); // informa em que posição da agenda está a pessoa
 //void imprimeAgenda(); // imprime os dados de todas as pessoas da agenda
-
-Pessoa[] pessoa = new Pessoa[10];
-Agenda agenda = new Agenda(pessoa);
+int op;
+Agenda a = new Agenda();
 string nome;
 int idade;
-float altura;
-int qtd=0;
-int num;
-*/
+int altura;
+Pessoa consulta = null;
+while (true)
+{
+    Console.WriteLine("Digite 1 para cadastrar pessoa\nDigite 2 para buscar as informações \nDigite 3 para apagar a pessoa\nDigite 4 para sair");
+    op = int.Parse(Console.ReadLine());
+    if (op == 1)
+    {
+        Console.WriteLine("Digite o nome da pessoa: ");
+        nome = Console.ReadLine();
+        Console.WriteLine("Digite a idade da pessoa: ");
+        idade = int.Parse(Console.ReadLine());
+        Console.WriteLine("Digite a altura da pessoa: ");
+        altura = int.Parse(Console.ReadLine());
+        a.armazenaPessoa(nome, idade, altura);
+        
+        Console.Clear();
+        a.imprimeAgenda();
+    }
+    if (op == 2)
+    {
+        Console.WriteLine("Digite o nome da pessoa que quer buscar: ");
+        nome = Console.ReadLine();
+        consulta = a.buscaPessoa(nome);
+        if (consulta != null)
+        {
+            Console.WriteLine("Pessoa encontrada! nome: " + consulta.Nome + " idade " + consulta.Idade+ " Altura: "+consulta.Altura);
+
+        }
+        else
+        {
+            Console.WriteLine("pessoa não encontrado!");
+        }
+    }
+    if (op == 3)
+    {
+        Console.WriteLine("Digite o nome da pessoa: ");
+        nome = Console.ReadLine();
+        a.removePessoa(nome);
+        Console.Clear();
+        a.imprimeAgenda();
+    }
+    if (op == 4)
+    {
+        break;
+    }
+}
+
 
 //7 - Crie uma classe denominada Elevador para armazenar as informações de um elevador dentro de um prédio.
 //A classe deve armazenar o andar atual (térreo = 0), total de andares no prédio (desconsiderando o térreo), capacidade do

@@ -15,6 +15,15 @@ namespace OO_Encapsulamento
         private float peso;
         private int idade;
 
+        public Pessoa(string nome, float altura, int idade)
+        {
+            Nome = nome;
+            Altura = altura;
+            Idade = idade;
+            
+           
+        }
+
         public int Idade { get => idade; set => idade = value; }
         public string Nome { get => nome; set => nome = value; }
         public float Altura { get => altura; set => altura = value; }

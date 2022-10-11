@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Net.Mime.MediaTypeNames;
@@ -9,100 +10,57 @@ namespace OO_Encapsulamento
 {
     internal class Agenda
     {
-        private Pessoa[] pessoa;
+        private List <Pessoa> pessoa = new List<Pessoa>();
 
-        public Agenda(Pessoa[] pessoa)
+
+
+        public void armazenaPessoa(string nome, int idade, float altura)
         {
-            this.pessoa = pessoa;
-        }
-
-        public void armazenaPessoa(string nome, int idade, float altura, Pessoa[] pessoa)
-        {
-           
-
-            bool encontrei = false;
-            for (int i = 0; i < 10; i++)
-            {
-                if (pessoa[i].Nome == null)
-                {
-                    pessoa[i].Nome = nome;
-                    pessoa[i].Idade = idade;
-                    pessoa[i].Altura = altura;
-                    encontrei = true;
-                    Console.WriteLine("A pessoa foi colocada na agenda");
-                    break;
-                }
-            }
-            if (!encontrei)
-            {
-                Console.WriteLine("A agenda já está cheia");
-            }
-
-
-
+            Pessoa p = new Pessoa(nome, altura, idade);
+            this.pessoa.Add(p);
 
         }
-        public void removePessoa(string nome, Pessoa[] pessoa)
+        
+        public void removePessoa(string nome)
         {
-            bool encontrei = false;
-            for (int i = 0; i < pessoa.Length; i++)
+            
+            for(int i = 0; i < pessoa.Count; i++)
             {
-                if (pessoa[i].Nome == nome)
+                if (pessoa[i].Nome.Equals(nome))
                 {
-                    pessoa[i].Nome = "";
-                    pessoa[i].Idade = 0;
-                    pessoa[i].Altura = 0;
-                    encontrei = true;
-                    Console.WriteLine("Pessoa removida");
-                    break;
+                    pessoa.RemoveAt(i);
                 }
             }
-            if (!encontrei)
-            {
-                Console.WriteLine("Esta pessoa nao esta na lista");
-            }
+                
+            
 
         }
-        public void buscaPessoa(string nome, Pessoa[] pessoa)
+        public Pessoa buscaPessoa(string nome)
         {
-            bool encontrei = false;
-            for (int i = 0; i < 10; i++)
+            Pessoa r = null;
+            foreach (Pessoa c in pessoa)
             {
-                if (pessoa[i].Nome == nome)
+                if (c.Nome.Equals(nome))
                 {
-                    Console.WriteLine(pessoa[i].Nome + " idade: " + pessoa[i].Idade + " altura:" + pessoa[i].Altura);
-                    break;
+                    r = c;
                 }
-
             }
-            if (!encontrei)
-            {
-                Console.WriteLine("Pessoa não encontrada");
-            }
+            return r;
         }
 
 
 
 
-        public void imprimeAgenda(Pessoa[] pessoa)
+        public void imprimeAgenda()
         {
-            if (pessoa.Length == 0)
+
+            for(int i = 0; i < pessoa.Count; i++)
             {
-                Console.WriteLine("Agenda vazia");
+                Console.WriteLine("Pessoa " + i + ": " + pessoa[i].Nome + " Altura: " + pessoa[i].Altura+ " Idade: " + pessoa[i].Idade );
             }
-            for (int i = 0; i < 10; i++)
-            {
-
-                if (pessoa[i].Nome == "")
-                {
-                    continue;
-                }
-                Console.WriteLine("posição: " + i + "\n nome: " + pessoa[i].Nome + " \nidade: " + pessoa[i].Idade + " \naltura: " + pessoa[i].Altura);
-                break;
 
 
 
-            }
         }
 
     }
