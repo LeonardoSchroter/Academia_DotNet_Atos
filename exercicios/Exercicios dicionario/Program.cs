@@ -369,6 +369,55 @@ namespace Exercicios_dicionario
                 Console.ReadKey();
             }
             */
+            /*7) Crie um dicionário que faça o armazenamento de Livros.Os dados para serem armazenados
+            //serão o nome do livro e a quantidade de páginas.Em um menu inicial, possibilite que
+            //o usuário do sistema possa cadastrar, consultar todos livros cadastrados ou pesquisar pelo nome do livro.
+
+            Dictionary<string, Livro> dic = new Dictionary<string, Livro>();
+            int op, qtdPaginas;
+            string nome;
+            Livro aux;
+
+
+            while (true)
+            {
+                Console.Clear();
+                Console.WriteLine("Digite 1 para cadastrar livro, 2 para consultar os livros cadastrados, 3 para pesquisar livro pelo nome, 4 para sair");
+                op = int.Parse(Console.ReadLine());
+                
+
+                if(op == 1)
+                {
+                    Console.WriteLine("Qual o nome do livro?");
+                    nome = Console.ReadLine();
+                    Console.WriteLine("Qual o número de paginas do livro?");
+                    qtdPaginas = int.Parse(Console.ReadLine());
+                    dic.Add(nome, new Livro(nome, qtdPaginas));
+                }
+                else if(op == 2)
+                {
+                    foreach(KeyValuePair<string, Livro> item in dic)
+                    {
+                        Console.WriteLine("-------------------\nNome: "+ item.Value.Nome+ " Quantidade de paginas:"+ item.Value.QtdPaginas);
+                    }
+                }
+                else if(op == 3)
+                {
+                    Console.WriteLine("Que livro deseja pesquisar?");
+                    nome = Console.ReadLine();
+                    if (dic.ContainsKey(nome))
+                    {
+                        dic.TryGetValue(nome, out aux);
+                        Console.WriteLine("Nome: "+aux.Nome+ " Quantidade de páginas: "+aux.QtdPaginas);
+                    }
+                }
+                else { break; }
+
+
+                Console.ReadLine();
+            }
+
+            */
 
 
         }
