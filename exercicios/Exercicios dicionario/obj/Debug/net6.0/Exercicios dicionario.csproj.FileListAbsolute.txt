@@ -1,0 +1,15 @@
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\bin\Debug\net6.0\Exercicios dicionario.exe
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\bin\Debug\net6.0\Exercicios dicionario.deps.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\bin\Debug\net6.0\Exercicios dicionario.runtimeconfig.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\bin\Debug\net6.0\Exercicios dicionario.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\bin\Debug\net6.0\Exercicios dicionario.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\obj\Debug\net6.0\Exercicios dicionario.csproj.AssemblyReference.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\obj\Debug\net6.0\Exercicios dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\obj\Debug\net6.0\Exercicios dicionario.AssemblyInfoInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\obj\Debug\net6.0\Exercicios dicionario.AssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\obj\Debug\net6.0\Exercicios dicionario.csproj.CoreCompileInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\obj\Debug\net6.0\Exercicios dicionario.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\obj\Debug\net6.0\refint\Exercicios dicionario.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\obj\Debug\net6.0\Exercicios dicionario.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\obj\Debug\net6.0\Exercicios dicionario.genruntimeconfig.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios dicionario\obj\Debug\net6.0\ref\Exercicios dicionario.dll
