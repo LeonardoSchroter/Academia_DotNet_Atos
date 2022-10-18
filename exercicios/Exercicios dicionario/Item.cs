@@ -22,5 +22,18 @@ namespace Exercicios_dicionario
         public string Descricao { get => _Descricao; set => _Descricao = value; }
         public DateTime Data { get => _Data; set => _Data = value; }
         public float Altura { get => _Altura; set => _Altura = value; }
+
+        public void MostrarItens(Item item)
+        {
+            
+                Console.WriteLine("Descrição: "+item.Descricao+ "\nData: "+item.Data+ "\nAltura:" +item.Altura);
+            
+        }
+        public void TempoDeCriacao(Item item)
+        {
+            DateTime dataAtual = DateTime.Now;
+
+            Console.WriteLine("O item foi criado a "+dataAtual.Subtract(item.Data).Hours +":"+ dataAtual.Subtract(item.Data).Minutes+" Horas");
+        }
     }
 }

@@ -4,6 +4,7 @@ using System.Runtime.ConstrainedExecution;
 using System.Runtime.Intrinsics.X86;
 using System;
 using static System.Net.WebRequestMethods;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Exercicios_dicionario
 {
@@ -180,7 +181,7 @@ namespace Exercicios_dicionario
 
             */
 
-            //            4) Crie uma classe para representar um item de cenário, com os atributos privados de:
+            /*            4) Crie uma classe para representar um item de cenário, com os atributos privados de:
             //            *descrição(string), 
             //    *data de criação(date -https://docs.microsoft.com/en-us/dotnet/api/system.datetime.date?view=net-6.0) e
             //    *altura(float).
@@ -189,6 +190,28 @@ namespace Exercicios_dicionario
             //todos dados de um item de cenário. 
             //Por fim, crie um método para calcular a quanto tempo o item foi criado, além de um programa em C# para testar
             //a classe criada.
+
+            Item item;
+            float altura;
+            string descricao;
+            DateTime data;
+            Console.WriteLine("Qual a descricao do item?");
+            descricao = Console.ReadLine();
+
+            Console.WriteLine("Qual a altura do item que deseja criar?");
+            altura = float.Parse(Console.ReadLine());
+            data = DateTime.Now;
+
+            item = new Item(descricao, data, altura);
+
+            item.MostrarItens(item);
+            item.TempoDeCriacao(item);
+
+
+
+
+
+            */
 
             /*            5) Crie uma classe para representar um objeto em um Plano Cartesiano. Todo objeto no plano cartesiano
             //            tem como atributos 'x' e 'y'.Dessa forma, crie os getters e setter de 'x' e 'y', o construtor básico e
