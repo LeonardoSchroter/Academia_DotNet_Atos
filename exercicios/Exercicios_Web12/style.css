@@ -1,0 +1,19 @@
+#tabela1 {
+  width: 900px;
+  color: whitesmoke;
+  border-color: aliceblue;
+
+}
+
+body {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  width: 70em;
+}
+a{
+  color: blueviolet;
+}
+
+

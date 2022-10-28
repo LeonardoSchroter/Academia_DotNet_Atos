@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Formulario</title>
+    <link rel="stylesheet" href="./style.css">
   </head>
   <body background="./lutador.png" text="white">
     <a href="./index.html">Voltar</a>
@@ -18,12 +19,14 @@
       <input type="text" name="feedback" />
       <br />
       <br />
+      <div class="radio">
       <p>De uma nota ao site</p>
-      1<input type="checkbox" name="um" /> 
-      2<input type="checkbox" name="dois" /> 
-      3<input type="checkbox" name="tres" />
-      4<input type="checkbox" name="quatro" />
-      5<input type="checkbox" name="cinco" />
+      1<input type="radio" name="nota" value="um" /> 
+      2<input type="radio" name="nota" value="dois" /> 
+      3<input type="radio" name="nota" value="tres" />
+      4<input type="radio" name="nota" value="quatro" />
+      5<input type="radio" name="nota" value="cinco" />
+      </div>
       <br>
       <br>
       <input type="submit" value="Enviar avaliação">
