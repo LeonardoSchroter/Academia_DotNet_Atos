@@ -1,0 +1,17 @@
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\bin\Debug\net6.0-windows\exercicio WinForm3.exe
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\bin\Debug\net6.0-windows\exercicio WinForm3.deps.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\bin\Debug\net6.0-windows\exercicio WinForm3.runtimeconfig.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\bin\Debug\net6.0-windows\exercicio WinForm3.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\bin\Debug\net6.0-windows\exercicio WinForm3.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\exercicio WinForm3.csproj.AssemblyReference.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\exercicio_WinForm3.Form1.resources
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\exercicio WinForm3.csproj.GenerateResource.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\exercicio WinForm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\exercicio WinForm3.AssemblyInfoInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\exercicio WinForm3.AssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\exercicio WinForm3.csproj.CoreCompileInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\exercicio WinForm3.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\refint\exercicio WinForm3.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\exercicio WinForm3.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\exercicio WinForm3.genruntimeconfig.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Exercicios_WindowsForm\exercicio WinForm3\obj\Debug\net6.0-windows\ref\exercicio WinForm3.dll
