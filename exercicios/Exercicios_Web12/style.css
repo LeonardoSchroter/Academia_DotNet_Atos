@@ -13,7 +13,13 @@ body {
   width: 70em;
 }
 a{
-  color: blueviolet;
+  color: darkorchid;
+  background-color: black;
 }
 
+#menuIndex{
+  text-align: center;
+  
+  font-size: larger;
+}
 
