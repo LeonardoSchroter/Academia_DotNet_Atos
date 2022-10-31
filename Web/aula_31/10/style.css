@@ -1,0 +1,60 @@
+p .beneficio {
+  color: red;
+}
+
+h1 {
+  border-top-width: thick;
+  border-top-style: dashed;
+  border-top-color: red;
+  border-bottom-width: thick;
+  border-bottom-style: dashed;
+  border-bottom-color: blue;
+  border-right-width: thick;
+  border-right-style: dashed;
+  border-right-color: green;
+  border-left-width: thick;
+  border-left-style: dashed;
+  border-left-color: orange;
+  padding: 50px;
+}
+
+.box {
+  width: 400px;
+  height: 500px;
+  border: 1px solid black;
+  background: orange;
+}
+
+#colum1 {
+  float: left;
+  width: 33%;
+}
+
+#colum2 {
+  float: left;
+  width: 33%;
+}
+#colum3 {
+  float: left;
+  width: 33%;
+}
+#box1{
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+}
+#box2{
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+}
+#box3{
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+}
+#box4{
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+}
