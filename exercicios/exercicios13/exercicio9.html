@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <body>
+
+        Login: <input type="text" id="login" required="required"><br><br>
+        Senha: <input type="password" id="password" required="required"><br><br>
+        Confirmar Senha: <input type="password" id="confirm_senha" required="required"><br><br>
+        <button id="bt" onclick="submit()">Confirmar</button>
+      
+      
+      
+        <script>
+      
+          function submit() {
+            var usuario = document.getElementById("login").value;
+            var senha = document.getElementById("password").value;
+            var conf_senha = document.getElementById("confirm_senha").value;
+      
+      
+            if(usuario== "" || senha=="" || conf_senha==""){
+                alert("Todos os campos devem ser preenchidos");
+            }
+            if (senha != conf_senha) {
+              alert("As senha nao conferem!");
+            }
+      
+            else if (senha.length < 6 || senha.length > 10) {
+              alert(" senha precisa ser maior que 6 e menor que 10");
+      
+            }
+            else{
+                alert("Parabens, voce esta logado");
+            }
+      
+      
+      
+      
+          }
+        </script>
+</body>
+</html>

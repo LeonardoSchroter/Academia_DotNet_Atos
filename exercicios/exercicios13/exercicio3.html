@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+      <input type="radio" id="bt_vermelho" onclick="mudaCorVermelho() " name="cor">vermelho</input type="radio">
+      <input type="radio" id="bt_verde" onclick="mudaCorVerde()"name="cor">verde</input type="radio">
+      <input type="radio" id="bt_azul" onclick="mudaCorAzul()"name="cor">azul</input type="radio">
+      <input type="radio" id="bt_amarelo" onclick="mudaCorAmarelo()" name="cor">amarelo</input type="radio">
+      <script>
+        function mudaCorVermelho() {
+          document.body.style.backgroundColor = "red";
+        }
+        function mudaCorVerde() {
+          document.body.style.backgroundColor = "green";
+        }
+        function mudaCorAzul() {
+          document.body.style.backgroundColor = "blue";
+        }
+        function mudaCorAmarelo() {
+          document.body.style.backgroundColor = "yellow";
+        }
+        </script>
+</body>
+</html>

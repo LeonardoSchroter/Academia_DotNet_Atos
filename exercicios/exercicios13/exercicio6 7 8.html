@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="p1">
+        Integer mattis tellus pharetra ante facilisis malesuada. Mauris cursus leo
+        <br />
+        et libero tristique feugiat. Mauris placerat nisl vehicula eros
+        blandit,<br />
+        vitae dignissim velit tristique. Aliquam erat volutpat. Proin in pharetra
+        <br />
+        turpis, eget euismod tortor. Ut posuere lacus quis urna posuere venenatis.
+        <br />
+        Morbi porttitor in justo et volutpat. Donec congue tortor vitae ipsum
+        <br />
+        aliquet tempus. Sed odio orci, ullamcorper vitae nibh at, feugiat blandit
+        <br />
+        ligula. Duis elit nibh, aliquam in molestie convallis, egestas in lorem.
+        <br />
+        Maecenas feugiat sem urna, sed pharetra arcu eleifend ac. Duis placerat
+        <br />
+        pharetra tempor. Phasellus in sem dolor. Proin sollicitudin lectus nec
+        <br />
+        elit consequat molestie. Aliquam in consequat quam, a sollicitudin enim.
+        <br />
+        </p>
+  
+    
+      <button type="button" onclick="letraPreta()">Letra preta</button>
+      <button type="button" onclick="letraBranca()">Letra Branca</button>
+      <button type="button" onclick="fundoPreto()">Fundo preto</button>
+      <button type="button" onclick="fundoBranco()">Fundo branco</button>
+      <button type="button" onclick="fonteMaior()">+</button>
+      <button type="button" onclick="fonteMenor()">-</button>
+      <button type="button" onclick="fonteMaiuscula()">Fonte maiuscula</button>
+      <button type="button" onclick="fonteMinuscula()">Fonte minuscula</button>
+    
+    
+    
+    
+      <script>
+        function letraBranca() {
+          var paragrafo = document.getElementById("p1");
+          paragrafo.style.color = "white";
+        }
+    
+        function letraPreta() {
+          var paragrafo = document.getElementById("p1");
+          paragrafo.style.color = "black";
+        }
+        function fundoPreto() {
+          var paragrafo = document.getElementById("p1");
+          paragrafo.style.backgroundColor = "black";
+        }
+        function fundoBranco() {
+          var paragrafo = document.getElementById("p1");
+          paragrafo.style.backgroundColor = "white";
+        }
+        function fonteMaior() {
+          var paragrafo = document.getElementById("p1");
+          paragrafo.style.fontSize = "40px";
+        }
+    
+        function fonteMenor() {
+          var paragrafo = document.getElementById("p1");
+          paragrafo.style.fontSize = "15px";
+        }
+    
+        function fonteMaiuscula() {
+          var paragrafo = document.getElementById("p1");
+          paragrafo.style.textTransform = "uppercase";
+        }
+    
+        function fonteMinuscula() {
+          var paragrafo = document.getElementById("p1");
+          paragrafo.style.textTransform = "lowercase";
+        }
+      </script>
+</body>
+</html>

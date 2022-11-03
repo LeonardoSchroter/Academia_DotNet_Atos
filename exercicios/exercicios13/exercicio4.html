@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <p id="meuPara">
+      Integer mattis tellus pharetra ante facilisis malesuada. Mauris cursus leo
+      <br />
+      et libero tristique feugiat. Mauris placerat nisl vehicula eros
+      blandit,<br />
+      vitae dignissim velit tristique. Aliquam erat volutpat. Proin in pharetra
+      <br />
+      turpis, eget euismod tortor. Ut posuere lacus quis urna posuere venenatis.
+      <br />
+      Morbi porttitor in justo et volutpat. Donec congue tortor vitae ipsum
+      <br />
+      aliquet tempus. Sed odio orci, ullamcorper vitae nibh at, feugiat blandit
+      <br />
+      ligula. Duis elit nibh, aliquam in molestie convallis, egestas in lorem.
+      <br />
+      Maecenas feugiat sem urna, sed pharetra arcu eleifend ac. Duis placerat
+      <br />
+      pharetra tempor. Phasellus in sem dolor. Proin sollicitudin lectus nec
+      <br />
+      elit consequat molestie. Aliquam in consequat quam, a sollicitudin enim.
+      <br />
+      </p>
+
+      <button id="ocultar" onclick="oculta('meuPara')">Ocultar paragrafo</button>
+
+      <script>
+        function oculta(pa) {
+          var display = document.getElementById(pa).style.display;
+          var botao = document.getElementById("ocultar");
+
+          if (display == "none") {
+            document.getElementById(pa).style.display = "block";
+            botao.innerHTML = "Esconder";
+          } else {
+            document.getElementById(pa).style.display = "none";
+            botao.innerHTML = "Mostrar";
+          }
+        }
+      </script>
+    </p>
+  </body>
+</html>

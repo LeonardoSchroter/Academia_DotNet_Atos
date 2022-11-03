@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <p>Selecione oque quer</p>
+    celular <input type="checkbox" name="compras" onclick="confirmar()" /> ipad
+    <input type="checkbox" name="compras" onclick="confirmar()" /> notebook
+    <input type="checkbox" name="compras" onclick="confirmar()" />
+    <br />
+
+    <button type="button" id="aplicar" onclick="confirmar()" disabled>
+      Aplicar
+    </button>
+
+    <script>
+      function confirmar() {
+        var tudo = document.getElementsByName("compras");
+        var bot = document.getElementById("aplicar");
+
+        var cont = 0;
+
+        for (i = 0; i < tudo.length; i++) {
+          if (tudo[i].checked == true) {
+            cont++;
+          }
+        }
+        if (cont >= 2) {
+          document.getElementById("aplicar").removeAttribute("disabled");
+        } else {
+          document.getElementById("aplicar").setAttribute("disabled", "disabled");
+        }
+      }
+    </script>
+  </body>
+</html>
