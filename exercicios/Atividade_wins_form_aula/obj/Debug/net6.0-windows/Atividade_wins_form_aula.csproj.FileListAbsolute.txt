@@ -1,0 +1,17 @@
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\bin\Debug\net6.0-windows\Atividade_wins_form_aula.exe
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\bin\Debug\net6.0-windows\Atividade_wins_form_aula.deps.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\bin\Debug\net6.0-windows\Atividade_wins_form_aula.runtimeconfig.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\bin\Debug\net6.0-windows\Atividade_wins_form_aula.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\bin\Debug\net6.0-windows\Atividade_wins_form_aula.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\Atividade_wins_form_aula.csproj.AssemblyReference.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\Atividade_wins_form_aula.Form1.resources
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\Atividade_wins_form_aula.csproj.GenerateResource.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\Atividade_wins_form_aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\Atividade_wins_form_aula.AssemblyInfoInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\Atividade_wins_form_aula.AssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\Atividade_wins_form_aula.csproj.CoreCompileInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\Atividade_wins_form_aula.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\refint\Atividade_wins_form_aula.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\Atividade_wins_form_aula.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\Atividade_wins_form_aula.genruntimeconfig.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\exercicios\Atividade_wins_form_aula\obj\Debug\net6.0-windows\ref\Atividade_wins_form_aula.dll
