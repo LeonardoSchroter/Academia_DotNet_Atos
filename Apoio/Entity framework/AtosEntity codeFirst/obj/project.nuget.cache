@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jf7DGUEuOk2c9S8wqDRE2MEL9qBaJH+XQtt3i9/TmnV29s9B1HlnfKAR0uKDU7viQt+lOM5+uwmFMNMtf+O2dg==",
+  "dgSpecHash": "TWQM5ygKkt6qJ/fy2mZ+gbwFHRpkmsT1rsjxZZsPY4YDSuSlDclmBRhleHbHQodvKuEAYlcHsxZocO6+uRfxug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leosc\\OneDrive\\Área de Trabalho\\Academia_DotNet_Atos\\Apoio\\AtosEntity codeFirst\\AtosEntity codeFirst.csproj",
+  "projectFilePath": "C:\\Users\\leosc\\OneDrive\\Área de Trabalho\\Academia_DotNet_Atos\\Apoio\\Entity framework\\AtosEntity codeFirst\\AtosEntity codeFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leosc\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\leosc\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

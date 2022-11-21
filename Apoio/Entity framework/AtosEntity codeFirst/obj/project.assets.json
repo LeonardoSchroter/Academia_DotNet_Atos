@@ -3645,11 +3645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leosc\\OneDrive\\Área de Trabalho\\Academia_DotNet_Atos\\Apoio\\AtosEntity codeFirst\\AtosEntity codeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\leosc\\OneDrive\\Área de Trabalho\\Academia_DotNet_Atos\\Apoio\\Entity framework\\AtosEntity codeFirst\\AtosEntity codeFirst.csproj",
       "projectName": "AtosEntity codeFirst",
-      "projectPath": "C:\\Users\\leosc\\OneDrive\\Área de Trabalho\\Academia_DotNet_Atos\\Apoio\\AtosEntity codeFirst\\AtosEntity codeFirst.csproj",
+      "projectPath": "C:\\Users\\leosc\\OneDrive\\Área de Trabalho\\Academia_DotNet_Atos\\Apoio\\Entity framework\\AtosEntity codeFirst\\AtosEntity codeFirst.csproj",
       "packagesPath": "C:\\Users\\leosc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leosc\\OneDrive\\Área de Trabalho\\Academia_DotNet_Atos\\Apoio\\AtosEntity codeFirst\\obj\\",
+      "outputPath": "C:\\Users\\leosc\\OneDrive\\Área de Trabalho\\Academia_DotNet_Atos\\Apoio\\Entity framework\\AtosEntity codeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
