@@ -9,5 +9,5 @@ public partial class Pessoa
 
     public string Nome { get; set; } = null!;
 
-    public virtual ICollection<Email> Emails { get; } = new List<Email>();
+    public virtual ICollection<Email> Emails { get; set; } = new List<Email>();
 }
