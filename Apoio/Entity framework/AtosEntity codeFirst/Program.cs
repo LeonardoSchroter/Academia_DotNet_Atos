@@ -159,6 +159,30 @@ namespace AtosEntity_codeFirst
 
                     break;
                 case 6:
+                    try
+                    {
+                        Console.WriteLine("Informe o ID ");
+                        int id = int.Parse(Console.ReadLine());
+
+                        Pessoa p = contexto.Pessoas.Include(pes => pes.emails).FirstOrDefault(pesid => pesid.id == id);
+
+                        Console.WriteLine("Nome: " + p.nome);
+
+                        if(p.emails != null)
+                        {
+                            foreach(Email email in p.emails)
+                            {
+                                Console.WriteLine("\t" + email.email);
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                        
+                    }
+                   
+
 
                     break;
                 default:
