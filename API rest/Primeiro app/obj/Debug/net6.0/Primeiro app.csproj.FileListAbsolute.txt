@@ -1,0 +1,27 @@
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\bin\Debug\net6.0\appsettings.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\bin\Debug\net6.0\Primeiro app.exe
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\bin\Debug\net6.0\Primeiro app.deps.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\bin\Debug\net6.0\Primeiro app.runtimeconfig.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\bin\Debug\net6.0\Primeiro app.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\bin\Debug\net6.0\Primeiro app.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\Primeiro app.csproj.AssemblyReference.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\Primeiro app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\Primeiro app.AssemblyInfoInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\Primeiro app.AssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\Primeiro app.csproj.CoreCompileInputs.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\Primeiro app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\Primeiro app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\scopedcss\bundle\Primeiro app.styles.css
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\Primeiro app.csproj.CopyComplete
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\Primeiro app.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\refint\Primeiro app.dll
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\Primeiro app.pdb
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\Primeiro app.genruntimeconfig.cache
+C:\Users\leosc\OneDrive\Área de Trabalho\Academia_DotNet_Atos\API rest\Primeiro app\obj\Debug\net6.0\ref\Primeiro app.dll
